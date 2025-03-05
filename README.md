@@ -1,5 +1,3 @@
-![Nest js](https://github.com/user-attachments/assets/61221137-1d5c-4e50-9bb3-22308e0cb6fa)## Olá! Eu sou o Radson Brendon 👋
-
 - 🔭 Hoje eu trabalho como fullstack
 
 
