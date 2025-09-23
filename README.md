@@ -1,5 +1,18 @@
-- 🔭 Hoje eu trabalho como fullstack
+# 👋 Olá, eu sou o Radson!
 
+💻 **Desenvolvedor Full Stack** apaixonado por tecnologia e por criar soluções que realmente ajudam pessoas.  
+Atualmente focado em **Java com Spring Boot no backend** e **Next.js/React no frontend**, sempre aplicando boas práticas de arquitetura, testes e qualidade de código.
+
+---
+
+## 🚀 Resumo Profissional
+- +2 anos de experiência prática em **desenvolvimento web full stack**.  
+- Experiência em **APIs REST**, autenticação JWT, testes unitários e integração com banco de dados.  
+- Projetos com **arquitetura limpa**, separação de camadas e uso de **Docker** para containerização.  
+- Foco atual em **Java/Spring Boot** no backend e **Next.js/React** no frontend.  
+- Experiência com **PostgreSQL**, **NestJS**, **AWS (EC2, Nginx, PM2)** e deploy em nuvem.  
+
+---
 
 <div>
   <a href="https://www.linkedin.com/in/radsonbrendonlima/">
