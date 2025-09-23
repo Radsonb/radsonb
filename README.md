@@ -14,11 +14,11 @@ Atualmente focado em **Java com Spring Boot no backend** e **Next.js/React no fr
 
 ---
 
-<div>
+<!-- <div>
   <a href="https://www.linkedin.com/in/radsonbrendonlima/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Radsonb&show_icons=true&theme=dark&inclue_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Radsonb&layout=compact&langs_count=16&theme=dark" />
-</div>
+</div> -->
 
 ## 🛠️ Tecnologias & Ferramentas
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -30,6 +30,13 @@ Atualmente focado em **Java com Spring Boot no backend** e **Next.js/React no fr
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+---
+
+## 📊 Estatísticas
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Radsonb&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Radsonb&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Radsonb&theme=radical)
 
 ---
 
