@@ -1,3 +1,5 @@
+**Idioma** · 🇧🇷 Português (Brasil) [![English](https://img.shields.io/badge/English-2457A7?style=for-the-badge)](./README.en.md)
+
 # 👋 Olá, eu sou o Radson!
 
 **💻 Desenvolvedor Full Stack | Node.js · TypeScript · NestJS · React · Next.js**
