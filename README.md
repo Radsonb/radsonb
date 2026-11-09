@@ -41,15 +41,6 @@ Análise e Desenvolvimento de Sistemas · Universidade Católica de Brasília ·
 
 ---
 
-## 📊 Estatísticas
-<div>
-  <a href="https://www.linkedin.com/in/radsonbrendonlima/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Radsonb&show_icons=true&theme=dark&inclue_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Radsonb&layout=compact&langs_count=16&theme=dark" />
-</div>
-
----
-
 ## 🌍 Onde me encontrar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/seu-linkedin](https://www.linkedin.com/in/radsonbrendonlima/))
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato.radson@gmail.com)
