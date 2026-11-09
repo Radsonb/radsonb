@@ -1,5 +1,3 @@
-# 👋 Olá, eu sou o Radson!
-
 <details>
 <summary>🇺🇸 Read in English</summary>
 
@@ -63,6 +61,8 @@ Systems Analysis and Development · Catholic University of Brasília · 2023
 ✨ I'm always looking to learn, grow, and share what I know.
 
 </details>
+
+# 👋 Olá, eu sou o Radson!
 
 **Desenvolvedor Full Stack | Node.js · TypeScript · NestJS · React · Next.js**
 
