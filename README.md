@@ -1,17 +1,31 @@
 # 👋 Olá, eu sou o Radson!
 
-💻 **Desenvolvedor Full Stack** apaixonado por tecnologia e por criar soluções que realmente ajudam pessoas.  
-Atualmente focado em **Java com Spring Boot no backend** e **Next.js/React no frontend**, sempre aplicando boas práticas de arquitetura, testes e qualidade de código.
+**💻 Desenvolvedor Full Stack | Node.js · TypeScript · NestJS · React · Next.js**
+Desenvolvo aplicações web, APIs e integrações entre sistemas. Ao longo da minha carreira, passei por projetos de esportes, saúde e pagamentos. Hoje, meu foco é **arquitetura de software**, especialmente em como estruturar serviços, integrar sistemas e manter a consistência das transações.
 
 ---
 
-## 🚀 Resumo Profissional
-- +2 anos de experiência prática em **desenvolvimento web full stack**.  
-- Experiência em **APIs REST**, autenticação JWT, testes unitários e integração com banco de dados.  
-- Projetos com **arquitetura limpa**, separação de camadas e uso de **Docker** para containerização.  
-- Foco atual em **Java/Spring Boot** no backend e **Next.js/React** no frontend.  
-- Experiência com **PostgreSQL**, **NestJS**, **AWS (EC2, Nginx, PM2)** e deploy em nuvem.  
+## 🚀 O que desenvolvi ao longo da carreira
+**iLutas e iSensei** · Na Bloco Design, desenvolvi aplicações web e mobile para escolas de artes marciais e para o gerenciamento de campeonatos no estado do Rio de Janeiro.
 
+**SaúdeClube** · Desenvolvi uma plataforma web voltada a médicos.
+
+**VexaPagamentos** · Criei uma plataforma de Banking as a Service (BaaS) para simplificar operações financeiras do dia a dia. O trabalho envolve fluxos de Pix, integrações com provedores financeiros e processamento de transações e webhooks. 
+
+---
+🛠️ O que aprendi e aprofundei
+
+- **NestJS, Node.js e TypeScript** · Desenvolvi APIs REST e GraphQL e integrei sistemas por meio de APIs e webhooks.
+- **React.js, Next.js e Vue.js** · Desenvolvi e evoluí interfaces web integradas ao backend.
+- **PostgreSQL e Redis** · Trabalhei com persistência de dados e cache em aplicações e serviços.
+- **Arquitetura de software** · Aprofundei minha experiência com microsserviços, filas e processamento assíncrono. Em pagamentos, aprendi a tratar eventos repetidos com idempotência e a preservar a consistência das transações.
+- **Qualidade, entrega e operação** · Trabalhei com testes automatizados, Docker, AWS e pipelines de CI/CD. Usei Prometheus e Grafana para monitorar aplicações e investiguei incidentes em produção.
+
+Também desenvolvo projetos com **Java e Spring Boot**.
+---
+🎓 Formação
+
+Análise e Desenvolvimento de Sistemas · Universidade Católica de Brasília · 2023
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
