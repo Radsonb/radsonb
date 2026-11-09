@@ -13,7 +13,7 @@ Desenvolvo aplicações web, APIs e integrações entre sistemas. Ao longo da mi
 **VexaPagamentos** · Criei uma plataforma de Banking as a Service (BaaS) para simplificar operações financeiras do dia a dia. O trabalho envolve fluxos de Pix, integrações com provedores financeiros e processamento de transações e webhooks. 
 
 ---
-🛠️ O que aprendi e aprofundei
+## 🛠️ O que aprendi e aprofundei
 
 - **NestJS, Node.js e TypeScript** · Desenvolvi APIs REST e GraphQL e integrei sistemas por meio de APIs e webhooks.
 - **React.js, Next.js e Vue.js** · Desenvolvi e evoluí interfaces web integradas ao backend.
@@ -23,7 +23,7 @@ Desenvolvo aplicações web, APIs e integrações entre sistemas. Ao longo da mi
 
 Também desenvolvo projetos com **Java e Spring Boot**.
 ---
-🎓 Formação
+## 🎓 Formação
 
 Análise e Desenvolvimento de Sistemas · Universidade Católica de Brasília · 2023
 ---
